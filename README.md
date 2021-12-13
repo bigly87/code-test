@@ -2,7 +2,7 @@
 
 ## 1.Class vs. Instance
 
-Please not at MPC we comply with pep8 coding standards and
+Please not at XXX we comply with pep8 coding standards and
 Google Style Python Docstrings,
 please implement those techniques into your python script.
 
